@@ -8,7 +8,7 @@ author: "Chaerin Lee"
 subtitle: "Full paper"
 authors: "Hyeon Jeong Byeon*, <strong>Chaerin Lee*</strong>, Jeemin Lee, Uran Oh. (* equal contribution)"
 venue: "ACM Conference on Human Factors in Computing Systems (CHI), 2022."
-poster: /pdfs/chi_22.pdf
+paper: /pdfs/chi_22.pdf
 ---
 
 
