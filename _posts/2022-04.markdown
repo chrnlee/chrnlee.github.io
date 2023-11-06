@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "“A Voice that Suits the Situation”: Understanding the Needs and Challenges for Supporting End-User Voice Customization"
+date:   2022
+image: /images/i3d2013.png
+categories: research
+author: "Chaerin Lee"
+subtitle: "Full paper"
+authors: "Hyeon Jeong Byeon*, <strong>Chaerin Lee*</strong>, Jeemin Lee, Uran Oh. (* equal contribution)"
+venue: "ACM Conference on Human Factors in Computing Systems (CHI), 2022."
+poster: /pdfs/chi_22.pdf
+---
+
+
+[Poster PDF](/pdfs/chi_22.pdf){:target="_blank"}
+
+[ACM Citation]([https://dl.acm.org/doi/10.1145/3491102.3501856)https://dl.acm.org/doi/10.1145/3491102.3501856]){:target="_blank"}
+
