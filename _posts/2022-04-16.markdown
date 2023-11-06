@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "“A Voice that Suits the Situation”: Understanding the Needs and Challenges for Supporting End-User Voice Customization"
-date:   2022
+date:   2022-04-16
 image: /images/i3d2013.png
 categories: research
 author: "Chaerin Lee"
